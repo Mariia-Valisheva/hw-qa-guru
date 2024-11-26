@@ -3,15 +3,15 @@ build/
 
 ### ! означает всегда добавлять ###
 !gradle/wrapper/gradle-wrapper.jar
-!**/src/main/**/build/
-!**/src/test/**/build/
+!**/src/main/**
+!**/src/test/**
 
 ### IntelliJ IDEA (* означает все файлы с такими форматами) ###
 .idea
 *.iws
 *.iml
 *.ipr
-out/
+
 !**/src/main/**/out/
 !**/src/test/**/out/
 
