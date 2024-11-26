@@ -8,10 +8,6 @@ build/
 
 ### IntelliJ IDEA (* означает все файлы с такими форматами) ###
 .idea
-.idea/modules.xml
-.idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/libraries/
 *.iws
 *.iml
 *.ipr
